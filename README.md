@@ -8,9 +8,10 @@ It uses a special programming approach called Object Oriented Programming to mak
 
 You can also delete products that are no longer needed. 
 
-<img width="956" alt="Captura de pantalla 2023-04-13 071137" src="https://user-images.githubusercontent.com/109045897/231755170-ca402e83-7ac2-454f-8536-3767c8ff438a.png">
+<img width="960" alt="Captura de pantalla 2023-04-13 071421" src="https://user-images.githubusercontent.com/109045897/231755181-14147277-dd15-437a-af6b-50077822168b.png">
 
 The website has a modern look and user-friendly features, such as interactive messages that tell you when products have been added or deleted.
 
-<img width="960" alt="Captura de pantalla 2023-04-13 071421" src="https://user-images.githubusercontent.com/109045897/231755181-14147277-dd15-437a-af6b-50077822168b.png">
+<img width="956" alt="Captura de pantalla 2023-04-13 071137" src="https://user-images.githubusercontent.com/109045897/231755170-ca402e83-7ac2-454f-8536-3767c8ff438a.png">
+
 
